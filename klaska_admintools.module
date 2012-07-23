@@ -3,3 +3,12 @@
  * @file
  * Drupal needs this blank file.
  */
+
+include_once 'klaska_admintools.features.inc';
+
+// @todo disable these modules:
+//$module_list[] = 'shortcut';
+//$module_list[] = 'toolbar';
+//$module_list[] = 'overlay';
+//$module_list[] = 'dashboard';
+//module_disable($module_list, TRUE);
