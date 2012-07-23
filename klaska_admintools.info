@@ -1,0 +1,8 @@
+name = Klaska.net - AdminTools
+description = General "switch" for all our must-have modules
+core = 7.x
+package = Klaska.net/shared
+version = 7.x-1.0
+project = klaska_admintools
+dependencies[] = contextual
+features[features_api][] = api:1
